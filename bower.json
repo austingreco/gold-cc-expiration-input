@@ -25,6 +25,7 @@
     "iron-validatable-behavior": "PolymerElements/iron-validatable-behavior#^1.0.0",
     "iron-flex-layout": "PolymerElements/iron-flex-layout#^1.0.0",
     "iron-form-element-behavior": "PolymerElements/iron-form-element-behavior#^1.0.0",
+    "iron-a11y-keys": "PolymerElements/iron-a11y-keys#^1.0.0",
     "paper-input": "PolymerElements/paper-input#^1.0.0",
     "paper-styles": "PolymerElements/paper-styles#^1.0.0",
     "polymer": "Polymer/polymer#^1.1.0"
